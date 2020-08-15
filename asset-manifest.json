@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CoronavirusTiempoReal/static/css/main.7a8df756.chunk.css",
+    "main.js": "/CoronavirusTiempoReal/static/js/main.c1aa67d3.chunk.js",
+    "main.js.map": "/CoronavirusTiempoReal/static/js/main.c1aa67d3.chunk.js.map",
+    "runtime-main.js": "/CoronavirusTiempoReal/static/js/runtime-main.7a6e0fe0.js",
+    "runtime-main.js.map": "/CoronavirusTiempoReal/static/js/runtime-main.7a6e0fe0.js.map",
+    "static/js/2.6e833e34.chunk.js": "/CoronavirusTiempoReal/static/js/2.6e833e34.chunk.js",
+    "static/js/2.6e833e34.chunk.js.map": "/CoronavirusTiempoReal/static/js/2.6e833e34.chunk.js.map",
+    "index.html": "/CoronavirusTiempoReal/index.html",
+    "precache-manifest.fa001668966013198e5c46a518e75213.js": "/CoronavirusTiempoReal/precache-manifest.fa001668966013198e5c46a518e75213.js",
+    "service-worker.js": "/CoronavirusTiempoReal/service-worker.js",
+    "static/css/main.7a8df756.chunk.css.map": "/CoronavirusTiempoReal/static/css/main.7a8df756.chunk.css.map",
+    "static/js/2.6e833e34.chunk.js.LICENSE.txt": "/CoronavirusTiempoReal/static/js/2.6e833e34.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/CoronavirusTiempoReal/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a6e0fe0.js",
+    "static/js/2.6e833e34.chunk.js",
+    "static/css/main.7a8df756.chunk.css",
+    "static/js/main.c1aa67d3.chunk.js"
+  ]
+}
