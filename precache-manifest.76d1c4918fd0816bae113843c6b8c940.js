@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad7311b56b65ce0180b031e003879e59",
+    "revision": "bbf825706b6bc03f5297a6a613c9b071",
     "url": "/CoronavirusTiempoReal/index.html"
   },
   {
-    "revision": "f2be7d529a7f59f6f137",
-    "url": "/CoronavirusTiempoReal/static/css/main.7a8df756.chunk.css"
+    "revision": "f218c4573f25b6e75163",
+    "url": "/CoronavirusTiempoReal/static/css/main.f3434654.chunk.css"
   },
   {
-    "revision": "89796057f360637e633d",
-    "url": "/CoronavirusTiempoReal/static/js/2.6e833e34.chunk.js"
+    "revision": "79b8935315ff40f74324",
+    "url": "/CoronavirusTiempoReal/static/js/2.68aa6d26.chunk.js"
   },
   {
     "revision": "176852ae27885dfd7559e0fb4b332d24",
-    "url": "/CoronavirusTiempoReal/static/js/2.6e833e34.chunk.js.LICENSE.txt"
+    "url": "/CoronavirusTiempoReal/static/js/2.68aa6d26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2be7d529a7f59f6f137",
-    "url": "/CoronavirusTiempoReal/static/js/main.c1aa67d3.chunk.js"
+    "revision": "f218c4573f25b6e75163",
+    "url": "/CoronavirusTiempoReal/static/js/main.3a1780fc.chunk.js"
   },
   {
     "revision": "86fca16ddc90e4c6ff3b",
