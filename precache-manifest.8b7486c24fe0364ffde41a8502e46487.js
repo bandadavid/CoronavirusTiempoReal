@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12adc609f30afacdb11f0749eff7f4f9",
+    "revision": "2ae75de1409db45b4c8af0aed9302f0f",
     "url": "/CoronavirusTiempoReal/index.html"
   },
   {
-    "revision": "b9195f8058d9b7814361",
-    "url": "/CoronavirusTiempoReal/static/css/main.7eeb75f1.chunk.css"
+    "revision": "74d993b887786054a4f7",
+    "url": "/CoronavirusTiempoReal/static/css/main.3ef35dff.chunk.css"
   },
   {
     "revision": "79b8935315ff40f74324",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoronavirusTiempoReal/static/js/2.68aa6d26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9195f8058d9b7814361",
+    "revision": "74d993b887786054a4f7",
     "url": "/CoronavirusTiempoReal/static/js/main.3a1780fc.chunk.js"
   },
   {
